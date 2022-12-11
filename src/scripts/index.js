@@ -1,6 +1,7 @@
 import 'regenerator-runtime';
 import '../styles/main.css';
 import './data/database';
+import './utils/hamburger'
 
 import 'lazysizes';
 import 'lazysizes/plugins/parent-fit/ls.parent-fit';
